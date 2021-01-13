@@ -1,3 +1,8 @@
+I am making changes and learning to use git locally via hyper and vscode.
+All the stuff I did 
+are as follows :-
+ - 
+
 # bookish-computing-machine
 This is a test...cause im just starting :)
 
